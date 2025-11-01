@@ -1,5 +1,3 @@
-Readme for coursework
+Readme for the coursework for COMP3222, 2025-26
 
-
-
-> pip install -r requirements.txt
+29/10/25: This repo will be updated very soon, the datasets and code to load it will be uploaded by 3rd November 2025
