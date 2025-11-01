@@ -1,6 +1,5 @@
 Readme for the coursework for COMP3222, 2025-26
 
-29/10/25: This repo will be updated very soon, the datasets and code to load it will be uploaded by 3rd November 2025
-
-
 > pip install -r requirements.txt
+
+the repo contains 23 datasets with all discrete variables to use in part 3 of the coursework. These are structured as <name>/<name>.data. There is an array of names, a function to load the data and example usage in the file data_loaders.py.
